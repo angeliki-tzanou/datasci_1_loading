@@ -4,7 +4,6 @@
   - consensus-based asthma data 2017 (csv)
 - kaggle:
     - Student Mental health A STATISTICAL RESEARCH ON THE EFFECTS OF MENTAL HEALTH ON STUDENTS’ CGPA dataset (csv)
-    - 
 ## Data XSLX:
 
 

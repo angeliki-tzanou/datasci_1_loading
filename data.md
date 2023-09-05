@@ -12,8 +12,7 @@
   - Cyanobacteria traces found in different concentrations and types of water reservoirs (xlsx)
 
 ## Data JSON:
-- infrequently reported notifiable diseases (json)
-- data.world
-  - Health Medicare drug spending (json)
-- data.gov
-  - Indicators of anxiety or depression based on social and economic impacts of Covid-19 on American households (json)
+- Air quality and O3 reported data (json)
+- Death rates by suicide: sex, race, origin (json)
+- Behavioral risks from tobacco use (json)
+- U.S Life expectancy at birth based on census demographics (json)

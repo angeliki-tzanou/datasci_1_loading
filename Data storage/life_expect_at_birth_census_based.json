@@ -1,0 +1,1706 @@
+[
+ {
+   "State": "Alabama",
+   "County": "(blank)",
+   "Census Tract Number": null,
+   "Life Expectancy": 75.5,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 0.0328
+ },
+ {
+   "State": "Alabama",
+   "County": "Autauga County, AL",
+   "Census Tract Number": 201,
+   "Life Expectancy": 73.1,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 2.2348
+ },
+ {
+   "State": "Alabama",
+   "County": "Autauga County, AL",
+   "Census Tract Number": 202,
+   "Life Expectancy": 76.9,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 3.3453
+ },
+ {
+   "State": "Alabama",
+   "County": "Autauga County, AL",
+   "Census Tract Number": 203,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Autauga County, AL",
+   "Census Tract Number": 204,
+   "Life Expectancy": 75.4,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.0216
+ },
+ {
+   "State": "Alabama",
+   "County": "Autauga County, AL",
+   "Census Tract Number": 205,
+   "Life Expectancy": 79.4,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.1768
+ },
+ {
+   "State": "Alabama",
+   "County": "Autauga County, AL",
+   "Census Tract Number": 206,
+   "Life Expectancy": 73.1,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.5519
+ },
+ {
+   "State": "Alabama",
+   "County": "Autauga County, AL",
+   "Census Tract Number": 207,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Autauga County, AL",
+   "Census Tract Number": 208.01,
+   "Life Expectancy": 78.3,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 2.3861
+ },
+ {
+   "State": "Alabama",
+   "County": "Autauga County, AL",
+   "Census Tract Number": 208.02,
+   "Life Expectancy": 76.9,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.2628
+ },
+ {
+   "State": "Alabama",
+   "County": "Autauga County, AL",
+   "Census Tract Number": 209,
+   "Life Expectancy": 73.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.5923
+ },
+ {
+   "State": "Alabama",
+   "County": "Autauga County, AL",
+   "Census Tract Number": 210,
+   "Life Expectancy": 74,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.1528
+ },
+ {
+   "State": "Alabama",
+   "County": "Autauga County, AL",
+   "Census Tract Number": 211,
+   "Life Expectancy": 72.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.2242
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 101,
+   "Life Expectancy": 75.2,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.0694
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 102,
+   "Life Expectancy": 72.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.5489
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 103,
+   "Life Expectancy": 75,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.0869
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 104,
+   "Life Expectancy": 76,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 2.3248
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 105,
+   "Life Expectancy": 78,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.1512
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 106,
+   "Life Expectancy": 71.8,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.4764
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 107.01,
+   "Life Expectancy": 79.6,
+   "Life Expectancy Range": "79.6-81.6",
+   "Life Expectancy Standard Error": 1.026
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 107.03,
+   "Life Expectancy": 80.1,
+   "Life Expectancy Range": "79.6-81.6",
+   "Life Expectancy Standard Error": 1.267
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 107.04,
+   "Life Expectancy": 81,
+   "Life Expectancy Range": "79.6-81.6",
+   "Life Expectancy Standard Error": 1.982
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 107.05,
+   "Life Expectancy": 77.7,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 0.8504
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 108,
+   "Life Expectancy": 80.5,
+   "Life Expectancy Range": "79.6-81.6",
+   "Life Expectancy Standard Error": 1.2963
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 109.03,
+   "Life Expectancy": 76.9,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.4921
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 109.04,
+   "Life Expectancy": 75.8,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.4416
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 109.05,
+   "Life Expectancy": 78.9,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.6976
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 109.06,
+   "Life Expectancy": 74.8,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.3785
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 110,
+   "Life Expectancy": 72.1,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 3.0571
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 111.01,
+   "Life Expectancy": 80,
+   "Life Expectancy Range": "79.6-81.6",
+   "Life Expectancy Standard Error": 1.142
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 111.02,
+   "Life Expectancy": 78.2,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 2.083
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 112.01,
+   "Life Expectancy": 78.6,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.1644
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 112.02,
+   "Life Expectancy": 80.4,
+   "Life Expectancy Range": "79.6-81.6",
+   "Life Expectancy Standard Error": 1.7078
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 113,
+   "Life Expectancy": 82.1,
+   "Life Expectancy Range": "81.7-97.5",
+   "Life Expectancy Standard Error": 2.7204
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 114.01,
+   "Life Expectancy": 78.7,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.9579
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 114.03,
+   "Life Expectancy": 78.3,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.0261
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 114.05,
+   "Life Expectancy": 77.8,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.4406
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 114.06,
+   "Life Expectancy": 78.7,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.6989
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 114.07,
+   "Life Expectancy": 79.1,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.7022
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 114.08,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 115.01,
+   "Life Expectancy": 78.5,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.6797
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 115.02,
+   "Life Expectancy": 75.7,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.456
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 116.01,
+   "Life Expectancy": 74.6,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.5336
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County, AL",
+   "Census Tract Number": 116.02,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Baldwin County",
+   "Census Tract Number": 9900,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Barbour County, AL",
+   "Census Tract Number": 9501,
+   "Life Expectancy": 75.7,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.4584
+ },
+ {
+   "State": "Alabama",
+   "County": "Barbour County, AL",
+   "Census Tract Number": 9502,
+   "Life Expectancy": 72.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 0.8552
+ },
+ {
+   "State": "Alabama",
+   "County": "Barbour County, AL",
+   "Census Tract Number": 9503,
+   "Life Expectancy": 75.2,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 2.0085
+ },
+ {
+   "State": "Alabama",
+   "County": "Barbour County, AL",
+   "Census Tract Number": 9504,
+   "Life Expectancy": 76.9,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.5291
+ },
+ {
+   "State": "Alabama",
+   "County": "Barbour County, AL",
+   "Census Tract Number": 9505,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Barbour County, AL",
+   "Census Tract Number": 9506,
+   "Life Expectancy": 71.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.9638
+ },
+ {
+   "State": "Alabama",
+   "County": "Barbour County, AL",
+   "Census Tract Number": 9507,
+   "Life Expectancy": 73.1,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.9222
+ },
+ {
+   "State": "Alabama",
+   "County": "Barbour County, AL",
+   "Census Tract Number": 9508,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Barbour County, AL",
+   "Census Tract Number": 9509,
+   "Life Expectancy": 73.5,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.1985
+ },
+ {
+   "State": "Alabama",
+   "County": "Bibb County, AL",
+   "Census Tract Number": 100.01,
+   "Life Expectancy": 70.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 2.0776
+ },
+ {
+   "State": "Alabama",
+   "County": "Bibb County, AL",
+   "Census Tract Number": 100.02,
+   "Life Expectancy": 74.4,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.3347
+ },
+ {
+   "State": "Alabama",
+   "County": "Bibb County, AL",
+   "Census Tract Number": 100.03,
+   "Life Expectancy": 75.1,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 2.0507
+ },
+ {
+   "State": "Alabama",
+   "County": "Bibb County, AL",
+   "Census Tract Number": 100.04,
+   "Life Expectancy": 73.8,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.1071
+ },
+ {
+   "State": "Alabama",
+   "County": "Blount County, AL",
+   "Census Tract Number": 501.01,
+   "Life Expectancy": 77.5,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.7379
+ },
+ {
+   "State": "Alabama",
+   "County": "Blount County, AL",
+   "Census Tract Number": 501.02,
+   "Life Expectancy": 75.6,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.0824
+ },
+ {
+   "State": "Alabama",
+   "County": "Blount County, AL",
+   "Census Tract Number": 502,
+   "Life Expectancy": 76.9,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.3941
+ },
+ {
+   "State": "Alabama",
+   "County": "Blount County, AL",
+   "Census Tract Number": 503,
+   "Life Expectancy": 77.1,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 0.8149
+ },
+ {
+   "State": "Alabama",
+   "County": "Blount County, AL",
+   "Census Tract Number": 504,
+   "Life Expectancy": 73.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.2177
+ },
+ {
+   "State": "Alabama",
+   "County": "Blount County, AL",
+   "Census Tract Number": 505,
+   "Life Expectancy": 75.7,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.1046
+ },
+ {
+   "State": "Alabama",
+   "County": "Blount County, AL",
+   "Census Tract Number": 506.01,
+   "Life Expectancy": 77.8,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 2.2247
+ },
+ {
+   "State": "Alabama",
+   "County": "Blount County, AL",
+   "Census Tract Number": 506.02,
+   "Life Expectancy": 77.3,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.258
+ },
+ {
+   "State": "Alabama",
+   "County": "Blount County, AL",
+   "Census Tract Number": 507,
+   "Life Expectancy": 73.6,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.0152
+ },
+ {
+   "State": "Alabama",
+   "County": "Bullock County, AL",
+   "Census Tract Number": 9521,
+   "Life Expectancy": 78.5,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 3.2116
+ },
+ {
+   "State": "Alabama",
+   "County": "Bullock County, AL",
+   "Census Tract Number": 9522,
+   "Life Expectancy": 76.3,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.2474
+ },
+ {
+   "State": "Alabama",
+   "County": "Bullock County, AL",
+   "Census Tract Number": 9525,
+   "Life Expectancy": 78,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 2.884
+ },
+ {
+   "State": "Alabama",
+   "County": "Butler County, AL",
+   "Census Tract Number": 9527,
+   "Life Expectancy": 73.8,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.8763
+ },
+ {
+   "State": "Alabama",
+   "County": "Butler County, AL",
+   "Census Tract Number": 9528,
+   "Life Expectancy": 78.1,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 2.0273
+ },
+ {
+   "State": "Alabama",
+   "County": "Butler County, AL",
+   "Census Tract Number": 9529,
+   "Life Expectancy": 73.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.9614
+ },
+ {
+   "State": "Alabama",
+   "County": "Butler County, AL",
+   "Census Tract Number": 9530,
+   "Life Expectancy": 71.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.7428
+ },
+ {
+   "State": "Alabama",
+   "County": "Butler County, AL",
+   "Census Tract Number": 9531,
+   "Life Expectancy": 71.4,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.6759
+ },
+ {
+   "State": "Alabama",
+   "County": "Butler County, AL",
+   "Census Tract Number": 9532,
+   "Life Expectancy": 74.1,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.5312
+ },
+ {
+   "State": "Alabama",
+   "County": "Butler County, AL",
+   "Census Tract Number": 9533,
+   "Life Expectancy": 72.7,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.5978
+ },
+ {
+   "State": "Alabama",
+   "County": "Butler County, AL",
+   "Census Tract Number": 9534,
+   "Life Expectancy": 72.6,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.8279
+ },
+ {
+   "State": "Alabama",
+   "County": "Butler County, AL",
+   "Census Tract Number": 9535,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 2,
+   "Life Expectancy": 75.6,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.78
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 3,
+   "Life Expectancy": 67.1,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.6994
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 4,
+   "Life Expectancy": 69.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.6385
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 5,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 6,
+   "Life Expectancy": 68.3,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.5562
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 7,
+   "Life Expectancy": 70.1,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.4806
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 8,
+   "Life Expectancy": 67.8,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 2.3619
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 9,
+   "Life Expectancy": 79.7,
+   "Life Expectancy Range": "79.6-81.6",
+   "Life Expectancy Standard Error": 1.5121
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 10,
+   "Life Expectancy": 76.7,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.9169
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 11,
+   "Life Expectancy": 75.1,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.1084
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 12.01,
+   "Life Expectancy": 72.7,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.1638
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 12.02,
+   "Life Expectancy": 77.2,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.6017
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 13,
+   "Life Expectancy": 67.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.8165
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 14,
+   "Life Expectancy": 72.3,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.4014
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 15,
+   "Life Expectancy": 73,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.5033
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 16,
+   "Life Expectancy": 71.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.3045
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 17,
+   "Life Expectancy": 74.7,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.2796
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 18,
+   "Life Expectancy": 74.4,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.0722
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 20,
+   "Life Expectancy": 74.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.4786
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 21.01,
+   "Life Expectancy": 72.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.7036
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 21.02,
+   "Life Expectancy": 77.8,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.5292
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 21.03,
+   "Life Expectancy": 75.2,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.3323
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 22,
+   "Life Expectancy": 68.1,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.6702
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 23,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 24,
+   "Life Expectancy": 74.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.5232
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 25.01,
+   "Life Expectancy": 76.1,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.1811
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 25.02,
+   "Life Expectancy": 75.5,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.6819
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 26,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 9819.01,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 9819.02,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Calhoun County, AL",
+   "Census Tract Number": 9819.03,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Chambers County, AL",
+   "Census Tract Number": 9538,
+   "Life Expectancy": 77.7,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.7896
+ },
+ {
+   "State": "Alabama",
+   "County": "Chambers County, AL",
+   "Census Tract Number": 9539,
+   "Life Expectancy": 77,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 2.1922
+ },
+ {
+   "State": "Alabama",
+   "County": "Chambers County, AL",
+   "Census Tract Number": 9540,
+   "Life Expectancy": 76.5,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.4008
+ },
+ {
+   "State": "Alabama",
+   "County": "Chambers County, AL",
+   "Census Tract Number": 9542,
+   "Life Expectancy": 71.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.2792
+ },
+ {
+   "State": "Alabama",
+   "County": "Chambers County, AL",
+   "Census Tract Number": 9543,
+   "Life Expectancy": 73.4,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.2923
+ },
+ {
+   "State": "Alabama",
+   "County": "Chambers County, AL",
+   "Census Tract Number": 9544,
+   "Life Expectancy": 70.8,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 2.7387
+ },
+ {
+   "State": "Alabama",
+   "County": "Chambers County, AL",
+   "Census Tract Number": 9545,
+   "Life Expectancy": 70,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.4648
+ },
+ {
+   "State": "Alabama",
+   "County": "Chambers County, AL",
+   "Census Tract Number": 9546,
+   "Life Expectancy": 72.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.2566
+ },
+ {
+   "State": "Alabama",
+   "County": "Chambers County, AL",
+   "Census Tract Number": 9547,
+   "Life Expectancy": 73,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.4456
+ },
+ {
+   "State": "Alabama",
+   "County": "Cherokee County, AL",
+   "Census Tract Number": 9557.01,
+   "Life Expectancy": 74.6,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.2364
+ },
+ {
+   "State": "Alabama",
+   "County": "Cherokee County, AL",
+   "Census Tract Number": 9557.02,
+   "Life Expectancy": 74,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.4162
+ },
+ {
+   "State": "Alabama",
+   "County": "Cherokee County, AL",
+   "Census Tract Number": 9558,
+   "Life Expectancy": 74.8,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.3481
+ },
+ {
+   "State": "Alabama",
+   "County": "Cherokee County, AL",
+   "Census Tract Number": 9559,
+   "Life Expectancy": 72.8,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.4518
+ },
+ {
+   "State": "Alabama",
+   "County": "Cherokee County, AL",
+   "Census Tract Number": 9560,
+   "Life Expectancy": 73.6,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.2709
+ },
+ {
+   "State": "Alabama",
+   "County": "Cherokee County, AL",
+   "Census Tract Number": 9561,
+   "Life Expectancy": 74.7,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.7416
+ },
+ {
+   "State": "Alabama",
+   "County": "Chilton County, AL",
+   "Census Tract Number": 601.01,
+   "Life Expectancy": 71.5,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.4123
+ },
+ {
+   "State": "Alabama",
+   "County": "Chilton County, AL",
+   "Census Tract Number": 601.02,
+   "Life Expectancy": 72.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.0839
+ },
+ {
+   "State": "Alabama",
+   "County": "Chilton County, AL",
+   "Census Tract Number": 602,
+   "Life Expectancy": 74.4,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.8884
+ },
+ {
+   "State": "Alabama",
+   "County": "Chilton County, AL",
+   "Census Tract Number": 603,
+   "Life Expectancy": 74.8,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 2.5268
+ },
+ {
+   "State": "Alabama",
+   "County": "Chilton County, AL",
+   "Census Tract Number": 604.01,
+   "Life Expectancy": 75.7,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 0.8509
+ },
+ {
+   "State": "Alabama",
+   "County": "Chilton County, AL",
+   "Census Tract Number": 604.02,
+   "Life Expectancy": 74.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.5128
+ },
+ {
+   "State": "Alabama",
+   "County": "Chilton County, AL",
+   "Census Tract Number": 605,
+   "Life Expectancy": 72.8,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.9305
+ },
+ {
+   "State": "Alabama",
+   "County": "Chilton County, AL",
+   "Census Tract Number": 606,
+   "Life Expectancy": 73.7,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.8221
+ },
+ {
+   "State": "Alabama",
+   "County": "Chilton County, AL",
+   "Census Tract Number": 607,
+   "Life Expectancy": 74.6,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.3193
+ },
+ {
+   "State": "Alabama",
+   "County": "Choctaw County, AL",
+   "Census Tract Number": 9567,
+   "Life Expectancy": 73.6,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.7823
+ },
+ {
+   "State": "Alabama",
+   "County": "Choctaw County, AL",
+   "Census Tract Number": 9568,
+   "Life Expectancy": 75,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.3767
+ },
+ {
+   "State": "Alabama",
+   "County": "Choctaw County, AL",
+   "Census Tract Number": 9569,
+   "Life Expectancy": 75,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.6967
+ },
+ {
+   "State": "Alabama",
+   "County": "Choctaw County, AL",
+   "Census Tract Number": 9570,
+   "Life Expectancy": 75.2,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.9433
+ },
+ {
+   "State": "Alabama",
+   "County": "Clarke County, AL",
+   "Census Tract Number": 9575,
+   "Life Expectancy": 76.4,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 2.1276
+ },
+ {
+   "State": "Alabama",
+   "County": "Clarke County, AL",
+   "Census Tract Number": 9576.01,
+   "Life Expectancy": 70.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 2.2527
+ },
+ {
+   "State": "Alabama",
+   "County": "Clarke County, AL",
+   "Census Tract Number": 9576.02,
+   "Life Expectancy": 76.6,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.5499
+ },
+ {
+   "State": "Alabama",
+   "County": "Clarke County, AL",
+   "Census Tract Number": 9577,
+   "Life Expectancy": 76.4,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 2.302
+ },
+ {
+   "State": "Alabama",
+   "County": "Clarke County, AL",
+   "Census Tract Number": 9578,
+   "Life Expectancy": 73.4,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.2631
+ },
+ {
+   "State": "Alabama",
+   "County": "Clarke County, AL",
+   "Census Tract Number": 9579.01,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Clarke County, AL",
+   "Census Tract Number": 9579.02,
+   "Life Expectancy": 76.1,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.3953
+ },
+ {
+   "State": "Alabama",
+   "County": "Clarke County, AL",
+   "Census Tract Number": 9580.01,
+   "Life Expectancy": 69.7,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 2.5666
+ },
+ {
+   "State": "Alabama",
+   "County": "Clarke County, AL",
+   "Census Tract Number": 9580.02,
+   "Life Expectancy": 75.6,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 2.2557
+ },
+ {
+   "State": "Alabama",
+   "County": "Clay County, AL",
+   "Census Tract Number": 9589,
+   "Life Expectancy": 74.1,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.071
+ },
+ {
+   "State": "Alabama",
+   "County": "Clay County, AL",
+   "Census Tract Number": 9590,
+   "Life Expectancy": 75.9,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.3497
+ },
+ {
+   "State": "Alabama",
+   "County": "Clay County, AL",
+   "Census Tract Number": 9591,
+   "Life Expectancy": 74.6,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.738
+ },
+ {
+   "State": "Alabama",
+   "County": "Clay County, AL",
+   "Census Tract Number": 9592,
+   "Life Expectancy": 73.8,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.9612
+ },
+ {
+   "State": "Alabama",
+   "County": "Cleburne County, AL",
+   "Census Tract Number": 9595,
+   "Life Expectancy": 71.3,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.7624
+ },
+ {
+   "State": "Alabama",
+   "County": "Cleburne County, AL",
+   "Census Tract Number": 9596,
+   "Life Expectancy": 71.7,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.3287
+ },
+ {
+   "State": "Alabama",
+   "County": "Cleburne County, AL",
+   "Census Tract Number": 9597,
+   "Life Expectancy": 73.4,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.3515
+ },
+ {
+   "State": "Alabama",
+   "County": "Cleburne County, AL",
+   "Census Tract Number": 9598,
+   "Life Expectancy": 76.8,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.4711
+ },
+ {
+   "State": "Alabama",
+   "County": "Coffee County, AL",
+   "Census Tract Number": 101,
+   "Life Expectancy": 74.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.5523
+ },
+ {
+   "State": "Alabama",
+   "County": "Coffee County, AL",
+   "Census Tract Number": 102,
+   "Life Expectancy": 76.6,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.4767
+ },
+ {
+   "State": "Alabama",
+   "County": "Coffee County, AL",
+   "Census Tract Number": 103,
+   "Life Expectancy": 77.1,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 0.885
+ },
+ {
+   "State": "Alabama",
+   "County": "Coffee County, AL",
+   "Census Tract Number": 104,
+   "Life Expectancy": 73.6,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.361
+ },
+ {
+   "State": "Alabama",
+   "County": "Coffee County, AL",
+   "Census Tract Number": 105,
+   "Life Expectancy": 74.1,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.2345
+ },
+ {
+   "State": "Alabama",
+   "County": "Coffee County, AL",
+   "Census Tract Number": 106,
+   "Life Expectancy": 77.1,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 2.4102
+ },
+ {
+   "State": "Alabama",
+   "County": "Coffee County, AL",
+   "Census Tract Number": 107,
+   "Life Expectancy": 78.4,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.3754
+ },
+ {
+   "State": "Alabama",
+   "County": "Coffee County, AL",
+   "Census Tract Number": 108,
+   "Life Expectancy": 78.5,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.7241
+ },
+ {
+   "State": "Alabama",
+   "County": "Coffee County, AL",
+   "Census Tract Number": 109,
+   "Life Expectancy": 75.6,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.4996
+ },
+ {
+   "State": "Alabama",
+   "County": "Coffee County, AL",
+   "Census Tract Number": 110,
+   "Life Expectancy": 75.2,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.2615
+ },
+ {
+   "State": "Alabama",
+   "County": "Coffee County, AL",
+   "Census Tract Number": 111,
+   "Life Expectancy": 78.9,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.911
+ },
+ {
+   "State": "Alabama",
+   "County": "Coffee County, AL",
+   "Census Tract Number": 112.01,
+   "Life Expectancy": 81.1,
+   "Life Expectancy Range": "79.6-81.6",
+   "Life Expectancy Standard Error": 1.2092
+ },
+ {
+   "State": "Alabama",
+   "County": "Coffee County, AL",
+   "Census Tract Number": 112.02,
+   "Life Expectancy": 79.2,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 3.0678
+ },
+ {
+   "State": "Alabama",
+   "County": "Coffee County, AL",
+   "Census Tract Number": 113,
+   "Life Expectancy": 71.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.2138
+ },
+ {
+   "State": "Alabama",
+   "County": "Colbert County, AL",
+   "Census Tract Number": 201,
+   "Life Expectancy": 72.3,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.4305
+ },
+ {
+   "State": "Alabama",
+   "County": "Colbert County, AL",
+   "Census Tract Number": 202,
+   "Life Expectancy": 74.5,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.0247
+ },
+ {
+   "State": "Alabama",
+   "County": "Colbert County, AL",
+   "Census Tract Number": 203,
+   "Life Expectancy": 67.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.8263
+ },
+ {
+   "State": "Alabama",
+   "County": "Colbert County, AL",
+   "Census Tract Number": 204,
+   "Life Expectancy": 74.6,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 2.9177
+ },
+ {
+   "State": "Alabama",
+   "County": "Colbert County, AL",
+   "Census Tract Number": 205,
+   "Life Expectancy": 73.7,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.5679
+ },
+ {
+   "State": "Alabama",
+   "County": "Colbert County, AL",
+   "Census Tract Number": 206,
+   "Life Expectancy": 73.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.2086
+ },
+ {
+   "State": "Alabama",
+   "County": "Colbert County, AL",
+   "Census Tract Number": 207.01,
+   "Life Expectancy": 75.9,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.4144
+ },
+ {
+   "State": "Alabama",
+   "County": "Colbert County, AL",
+   "Census Tract Number": 207.03,
+   "Life Expectancy": 73.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.1503
+ },
+ {
+   "State": "Alabama",
+   "County": "Colbert County, AL",
+   "Census Tract Number": 207.04,
+   "Life Expectancy": 77.1,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.6305
+ },
+ {
+   "State": "Alabama",
+   "County": "Colbert County, AL",
+   "Census Tract Number": 208.01,
+   "Life Expectancy": 75.7,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.1851
+ },
+ {
+   "State": "Alabama",
+   "County": "Colbert County, AL",
+   "Census Tract Number": 208.02,
+   "Life Expectancy": 73.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.2959
+ },
+ {
+   "State": "Alabama",
+   "County": "Colbert County, AL",
+   "Census Tract Number": 209.01,
+   "Life Expectancy": 72.5,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.4501
+ },
+ {
+   "State": "Alabama",
+   "County": "Colbert County, AL",
+   "Census Tract Number": 209.02,
+   "Life Expectancy": 75.5,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 2.2052
+ },
+ {
+   "State": "Alabama",
+   "County": "Colbert County, AL",
+   "Census Tract Number": 210,
+   "Life Expectancy": 71.5,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.3336
+ },
+ {
+   "State": "Alabama",
+   "County": "Conecuh County, AL",
+   "Census Tract Number": 9602,
+   "Life Expectancy": 75.4,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.8406
+ },
+ {
+   "State": "Alabama",
+   "County": "Conecuh County, AL",
+   "Census Tract Number": 9603,
+   "Life Expectancy": 73.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 2.4705
+ },
+ {
+   "State": "Alabama",
+   "County": "Conecuh County, AL",
+   "Census Tract Number": 9604,
+   "Life Expectancy": 74.6,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.6061
+ },
+ {
+   "State": "Alabama",
+   "County": "Conecuh County, AL",
+   "Census Tract Number": 9605,
+   "Life Expectancy": 74.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 3.0407
+ },
+ {
+   "State": "Alabama",
+   "County": "Conecuh County, AL",
+   "Census Tract Number": 9606,
+   "Life Expectancy": 69.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.4598
+ },
+ {
+   "State": "Alabama",
+   "County": "Coosa County, AL",
+   "Census Tract Number": 9610,
+   "Life Expectancy": 73.9,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.4342
+ },
+ {
+   "State": "Alabama",
+   "County": "Coosa County, AL",
+   "Census Tract Number": 9611,
+   "Life Expectancy": 79.6,
+   "Life Expectancy Range": "79.6-81.6",
+   "Life Expectancy Standard Error": 2.1955
+ },
+ {
+   "State": "Alabama",
+   "County": "Coosa County, AL",
+   "Census Tract Number": 9612,
+   "Life Expectancy": 80.2,
+   "Life Expectancy Range": "79.6-81.6",
+   "Life Expectancy Standard Error": 2.0403
+ },
+ {
+   "State": "Alabama",
+   "County": "Covington County, AL",
+   "Census Tract Number": 9616,
+   "Life Expectancy": 76.4,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.5662
+ },
+ {
+   "State": "Alabama",
+   "County": "Covington County, AL",
+   "Census Tract Number": 9617,
+   "Life Expectancy": 76.6,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.4266
+ },
+ {
+   "State": "Alabama",
+   "County": "Covington County, AL",
+   "Census Tract Number": 9618,
+   "Life Expectancy": 73.6,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.6781
+ },
+ {
+   "State": "Alabama",
+   "County": "Covington County, AL",
+   "Census Tract Number": 9619,
+   "Life Expectancy": 75.6,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.5902
+ },
+ {
+   "State": "Alabama",
+   "County": "Covington County, AL",
+   "Census Tract Number": 9620,
+   "Life Expectancy": 73.7,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.3739
+ },
+ {
+   "State": "Alabama",
+   "County": "Covington County, AL",
+   "Census Tract Number": 9621,
+   "Life Expectancy": null,
+   "Life Expectancy Range": "",
+   "Life Expectancy Standard Error": null
+ },
+ {
+   "State": "Alabama",
+   "County": "Covington County, AL",
+   "Census Tract Number": 9623,
+   "Life Expectancy": 76.1,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.4954
+ },
+ {
+   "State": "Alabama",
+   "County": "Covington County, AL",
+   "Census Tract Number": 9624,
+   "Life Expectancy": 78.3,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.9395
+ },
+ {
+   "State": "Alabama",
+   "County": "Covington County, AL",
+   "Census Tract Number": 9625,
+   "Life Expectancy": 72,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 2.0291
+ },
+ {
+   "State": "Alabama",
+   "County": "Covington County, AL",
+   "Census Tract Number": 9626,
+   "Life Expectancy": 70.6,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 2.0018
+ },
+ {
+   "State": "Alabama",
+   "County": "Covington County, AL",
+   "Census Tract Number": 9627,
+   "Life Expectancy": 72.3,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.8122
+ },
+ {
+   "State": "Alabama",
+   "County": "Covington County, AL",
+   "Census Tract Number": 9628,
+   "Life Expectancy": 77.1,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 2.2348
+ },
+ {
+   "State": "Alabama",
+   "County": "Covington County, AL",
+   "Census Tract Number": 9629,
+   "Life Expectancy": 78,
+   "Life Expectancy Range": "77.6-79.5",
+   "Life Expectancy Standard Error": 1.9989
+ },
+ {
+   "State": "Alabama",
+   "County": "Covington County, AL",
+   "Census Tract Number": 9630,
+   "Life Expectancy": 73.8,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.3823
+ },
+ {
+   "State": "Alabama",
+   "County": "Crenshaw County, AL",
+   "Census Tract Number": 9634,
+   "Life Expectancy": 73.3,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 2.6634
+ },
+ {
+   "State": "Alabama",
+   "County": "Crenshaw County, AL",
+   "Census Tract Number": 9635,
+   "Life Expectancy": 72.1,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.6216
+ },
+ {
+   "State": "Alabama",
+   "County": "Crenshaw County, AL",
+   "Census Tract Number": 9636,
+   "Life Expectancy": 74.3,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.6469
+ },
+ {
+   "State": "Alabama",
+   "County": "Crenshaw County, AL",
+   "Census Tract Number": 9637,
+   "Life Expectancy": 76.7,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.4113
+ },
+ {
+   "State": "Alabama",
+   "County": "Crenshaw County, AL",
+   "Census Tract Number": 9638,
+   "Life Expectancy": 73.8,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 2.0119
+ },
+ {
+   "State": "Alabama",
+   "County": "Crenshaw County, AL",
+   "Census Tract Number": 9639,
+   "Life Expectancy": 76.9,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.7778
+ },
+ {
+   "State": "Alabama",
+   "County": "Cullman County, AL",
+   "Census Tract Number": 9641,
+   "Life Expectancy": 72.2,
+   "Life Expectancy Range": "56.9-75.1",
+   "Life Expectancy Standard Error": 1.3515
+ },
+ {
+   "State": "Alabama",
+   "County": "Cullman County, AL",
+   "Census Tract Number": 9642,
+   "Life Expectancy": 75.6,
+   "Life Expectancy Range": "75.2-77.5",
+   "Life Expectancy Standard Error": 1.0562
+ }
+]

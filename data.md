@@ -12,7 +12,8 @@
   - Cyanobacteria traces found in different concentrations and types of water reservoirs (xlsx)
 
 ## Data JSON:
-- Air quality and O3 reported data (json)
-- Death rates by suicide: sex, race, origin (json)
-- Behavioral risks from tobacco use (json)
-- U.S Life expectancy at birth based on census demographics (json)
+- Data.gov
+  - Air quality and O3 reported data (json)
+  - Death rates by suicide: sex, race, origin (json)
+  - Behavioral risks from tobacco use (json)
+  - U.S Life expectancy at birth based on census demographics (json)
